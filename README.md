@@ -12,7 +12,6 @@
    - [Insights Generation](#insights-generation)
 - [What Can Be Implemented?](#what-can-be-implemented)
 - [Key Learnings](#key-learnings)
-- [Link](#link)
 
 ## 📝 Introduction
 

@@ -67,7 +67,3 @@ Throughout this project, we gained valuable skills and knowledge, including:
 3. Data Concatenation and Merging
 4. Data Plotting with Matplotlib
 5. Data Exploration and Understanding
-
-## 📎 Link
-
-### 💼 [Linkedin Post](https://www.linkedin.com/posts/pravesh-agarwal27_dataanalysis-hospitalityindustry-pythonproject-activity-7221034116366925824-KKxZ?utm_source=share&utm_medium=member_desktop)
